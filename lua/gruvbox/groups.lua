@@ -297,6 +297,14 @@ groups.setup = function()
     NERDTreeHelp = { link = "GruvboxFg1" },
     NERDTreeToggleOn = { link = "GruvboxGreen" },
     NERDTreeToggleOff = { link = "GruvboxRed" },
+    -- nvim-tree
+    NvimTreeSymlink = { link = "GruvboxBlue" },
+    NvimTreeFolderName = { link = "GruvboxGreen" },
+    NvimTreeRootFolder = { link = "GruvboxPurple" },
+    NvimTreeFolderIcon = { link = "GruvboxOrange" },
+    NvimTreeExecFile = { link = "GruvboxYellow" },
+    NvimTreeSpecialFile = { link = "GruvboxFg1" },
+    NvimTreeIndentMarker = { link = "GruvboxGray" },
     -- coc.nvim
     CocErrorSign = { link = "GruvboxRedSign" },
     CocWarningSign = { link = "GruvboxOrangeSign" },
